@@ -10,7 +10,7 @@ public class Program {
 
 	public static void main(String[] args) throws ParseException {
 		Locale.setDefault(Locale.US);
-		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy ");
 		Scanner scan = new Scanner(System.in);
 		OrderItem orditem = new OrderItem();
 
