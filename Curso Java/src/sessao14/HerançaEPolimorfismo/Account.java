@@ -1,6 +1,8 @@
 package sessao14.HerançaEPolimorfismo;
 
-public class Account {
+public abstract class Account {
+//	public class Account {	
+	
 	
 	private Integer number;
 	private String holder;
