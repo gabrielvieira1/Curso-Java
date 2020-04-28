@@ -1,4 +1,4 @@
-package sessao14.HerançaEPolimorfismo;
+package sessao14.HerancaEPolimorfismo;
 
 public abstract class Account {
 //	public class Account {	
