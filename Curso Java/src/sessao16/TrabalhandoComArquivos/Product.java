@@ -47,8 +47,8 @@ public class Product {
 	
 	@Override
 	public String toString() {
-	//	return getName() + " " + getPrice();
-		return getName() + " " + getPrice() + " " + getQuantity();
+		return getName() + " " + getPrice();
+	//	return getName() + " " + getPrice() + " " + getQuantity();
 	}
 
 }
